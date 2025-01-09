@@ -1,0 +1,8 @@
+html{
+    scroll-behavior:smooth ;
+    scroll-snap-type: mandatory;
+    background-color: rgb(26, 26, 26);
+}
+.Pricing{
+    height: 50px;
+}
